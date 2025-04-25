@@ -6,9 +6,7 @@ is present until I am certain everything works right))
 image operations.   Pro account trial expires 2/21 and then I can revert to hobby or continue with pro.
 I reduced the size or the large images so that we take up much less bucket storage.   Hobby account may be viable
 
-
-
-- Test create, update, delete of artwork.  If working, merge add-tags branch into main branch
+- Upgrade to use react that is not a release candidate so that when I npm install I don't have to use switches
 - Build a login page and make sure that all the admin pages are only accessible when logged in
 - See if I can get the main page of the user website to run in this repo accessing the database to create a context
    with all artworks.
